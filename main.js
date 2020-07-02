@@ -1,2 +1,5 @@
 //mostrare / nascondere il menu principale
-$(".hamburger-menu").click()
+$(".fa-bars").click();
+console.log($(".fa-bars"));
+
+$(".hamburger-menu").show();
